@@ -1,0 +1,11 @@
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\bin\Debug\ShowingListOfCustomers.exe.config
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\bin\Debug\ShowingListOfCustomers.exe
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\bin\Debug\ShowingListOfCustomers.pdb
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\obj\Debug\ShowingListOfCustomers.csproj.AssemblyReference.cache
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\obj\Debug\ShowingListOfCustomers.csproj.SuggestedBindingRedirects.cache
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\obj\Debug\ShowingListOfCustomers.Properties.Resources.resources
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\obj\Debug\ShowingListOfCustomers.Form1.resources
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\obj\Debug\ShowingListOfCustomers.csproj.GenerateResource.cache
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\obj\Debug\ShowingListOfCustomers.csproj.CoreCompileInputs.cache
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\obj\Debug\ShowingListOfCustomers.exe
+E:\FCAI\2nd\2nd term\DataBase\Project\ShowingListOfCustomers\ShowingListOfCustomers\obj\Debug\ShowingListOfCustomers.pdb
